@@ -70,4 +70,4 @@ queen = NQueen(N)
 res = queen.nQueen(1)
 
 for i in res:
-    print(i)
+    print(i)        """
